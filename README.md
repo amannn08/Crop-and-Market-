@@ -67,7 +67,8 @@ Based on the analysis shown in the dashboards:
 ## 📸 Dashboard Snapshots
 
 ### 💰 Sales Dashboard  
-![Sales Dashboard](./34d7c91d-ee0a-4bc1-9372-d027984ecedd.png)
+![Dashboard Image](./Screenshot%202025-07-13%20120755.png)
+
 
 ### 📦 Quantity Dashboard  
 ![Dashboard Image](./Screenshot%202025-07-13%20120744.png)
