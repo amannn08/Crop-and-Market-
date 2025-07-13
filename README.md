@@ -70,7 +70,7 @@ Based on the analysis shown in the dashboards:
 ![Sales Dashboard](./34d7c91d-ee0a-4bc1-9372-d027984ecedd.png)
 
 ### 📦 Quantity Dashboard  
-![Quantity Dashboard](./d1bc2c8b-30c7-46ea-9105-30329c936127.png)
+![Quantity Dashboard](./Screenshot 2025-07-13 120744.png)
 
 ---
 
